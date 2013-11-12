@@ -1,0 +1,62 @@
+09:22:49 **** Incremental Build of configuration Debug for project C++Test ****
+make all 
+Building file: ../main.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: C++Test.exe
+Invoking: Cygwin C++ Linker
+g++  -o "C++Test.exe"  ./main.o   
+Finished building target: C++Test.exe
+ 
+09:26:13 **** Build of configuration Debug for project C++Test ****
+make all 
+Building target: C++Test.exe
+Invoking: Cygwin C++ Linker
+g++  -o "C++Test.exe"  ./main.o   
+Finished building target: C++Test.exe
+ 
+09:26:17 **** Auto Build of configuration Debug for project C++Test ****
+make all 
+Building target: C++Test.exe
+Invoking: Cygwin C++ Linker
+g++  -o "C++Test.exe"  ./main.o   
+Finished building target: C++Test.exe
+ 
+09:26:42 **** Auto Build of configuration Debug for project C++Test ****
+make all 
+Building file: ../main.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: C++Test.exe
+Invoking: Cygwin C++ Linker
+g++  -o "C++Test.exe"  ./main.o   
+Finished building target: C++Test.exe
+ 
+12:09:56 **** Build of configuration Debug for project C++Test ****
+make all 
+make: Nothing to be done for 'all'.
+16:08:38 **** Incremental Build of configuration Debug for project C++Test ****
+make all 
+make: Nothing to be done for 'all'.
+17:03:23 **** Build of configuration Debug for project C++Test ****
+make all 
+make: Nothing to be done for 'all'.
+17:03:53 **** Incremental Build of configuration Debug for project C++Test ****
+make all 
+make: Nothing to be done for 'all'.
+11:56:25 **** Incremental Build of configuration Debug for project C++Test ****
+make all 
+make: Nothing to be done for 'all'.
+11:57:06 **** Incremental Build of configuration Debug for project C++Test ****
+make all 
+make: Nothing to be done for 'all'.
+13:58:31 **** Incremental Build of configuration Debug for project C++Test ****
+make all 
+make: Nothing to be done for 'all'.
+16:49:59 **** Incremental Build of configuration Debug for project C++Test ****
+make all 
+make: Nothing to be done for 'all'.
