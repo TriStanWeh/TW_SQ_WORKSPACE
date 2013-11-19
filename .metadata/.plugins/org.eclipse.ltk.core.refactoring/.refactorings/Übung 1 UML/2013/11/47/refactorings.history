@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Übung 1 UML/new_diagram.uxf&apos; to &apos;Uebung1.uxf&apos;" description="Rename resource &apos;new_diagram.uxf&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="new_diagram.uxf" name="Uebung1.uxf" stamp="1384860592085" updateReferences="true"/>
+</session>
