@@ -1,23 +1,9 @@
 INDEX VERSION 1.126+C:\Users\T\Documents\Studium\MCS Fachsemester 6\Softwarequalität\SQ_13\TW_SQ_WORKSPACE\.metadata\.plugins\org.eclipse.jdt.core
-1075156909.index
 1571778569.index
 3352527287.index
-3521617142.index
-3626931047.index
 1143087269.index
-3015671029.index
 3366113853.index
-2708239607.index
-4018706093.index
-2706502329.index
-384216248.index
 3004898935.index
 4206169336.index
 681371111.index
-739078005.index
-3256372620.index
-728132027.index
-1144188029.index
-1820024274.index
-683184654.index
-4149142647.index
+2151078490.index

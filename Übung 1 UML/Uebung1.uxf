@@ -7,15 +7,17 @@
       <x>30</x>
       <y>40</y>
       <w>120</w>
-      <h>100</h>
+      <h>140</h>
     </coordinates>
     <panel_attributes>Student
 --
-Name : String
-Unnumber : int
+name : String
+unNumber : int
 --
-setUnnumber()
-getUnumber()
+setunNumber()
+getunNumber()
+setName()
+getName()
 </panel_attributes>
     <additional_attributes/>
   </element>
@@ -37,9 +39,11 @@ getUnumber()
       <x>30</x>
       <y>280</y>
       <w>120</w>
-      <h>30</h>
+      <h>50</h>
     </coordinates>
     <panel_attributes>EmloyedStudent
+--
+salary : double
 
 
 
@@ -50,12 +54,12 @@ getUnumber()
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>60</x>
-      <y>110</y>
+      <y>150</y>
       <w>50</w>
-      <h>190</h>
+      <h>150</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>30;30;30;170</additional_attributes>
+    <additional_attributes>30;30;30;130</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Class</type>
@@ -67,7 +71,7 @@ getUnumber()
     </coordinates>
     <panel_attributes>Employee
 --
-Salary : double
+salary : double
 
 
 

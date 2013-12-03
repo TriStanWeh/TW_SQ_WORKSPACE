@@ -1,6 +1,6 @@
-16:20:03 **** Build of configuration Debug for project C++Test ****
+11:12:32 **** Build of configuration Debug for project C++Test ****
 make all 
 make: Nothing to be done for 'all'.
 
-16:20:04 Build Finished (took 519ms)
+11:12:32 Build Finished (took 450ms)
 

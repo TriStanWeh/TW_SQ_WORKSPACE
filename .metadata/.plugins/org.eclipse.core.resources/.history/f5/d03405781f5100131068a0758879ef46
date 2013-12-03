@@ -1,0 +1,17 @@
+package uebung1;
+
+public class EmloyedStudent extends Student implements Employment{
+
+	@Override
+	public void setSalary(double sal) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public double getSalary() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

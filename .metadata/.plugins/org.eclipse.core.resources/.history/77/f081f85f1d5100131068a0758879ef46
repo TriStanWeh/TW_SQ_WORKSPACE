@@ -1,0 +1,17 @@
+package uebung1;
+
+public class Student {
+	
+	public String name;
+	public int unNumber;
+	
+	public void setunnumber(int nummer){
+		unNumber = nummer;
+		
+	}
+	
+	public int getunumber (){
+		return unNumber;
+	}
+
+}
