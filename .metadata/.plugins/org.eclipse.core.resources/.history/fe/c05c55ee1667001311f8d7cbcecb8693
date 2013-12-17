@@ -1,0 +1,30 @@
+package fuchimiGame;
+
+public class Rock extends Hand {
+
+	@Override
+	public String toString() {
+		return "Rock";
+	}
+
+	@Override
+	public Boolean beats(Hand hand) {
+		return hand.loseAgainst(this);
+	}
+
+	@Override
+	public Boolean loseAgainst(Rock rock) {
+		return null;
+	}
+	
+	@Override
+	public Boolean loseAgainst(Paper paper) {
+		return Boolean.TRUE;
+	}
+
+	@Override
+	public Boolean loseAgainst(Scissors scissors) {
+		return Boolean.FALSE;
+	}
+
+}

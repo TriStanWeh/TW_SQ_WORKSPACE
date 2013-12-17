@@ -1,0 +1,15 @@
+package fuchimiGame;
+
+public abstract class Hand {
+	
+	public abstract String toString();
+	
+	public abstract Boolean beats(Hand hand);
+	
+	public abstract Boolean loseAgainst(Rock rock);
+	
+	public abstract Boolean loseAgainst(Paper paper);
+	
+	public abstract Boolean loseAgainst(Scissors scissors);
+
+}

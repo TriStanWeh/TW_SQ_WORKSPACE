@@ -1,0 +1,7 @@
+package fuchimiGame;
+
+public abstract class Hand {
+	
+	
+
+}
